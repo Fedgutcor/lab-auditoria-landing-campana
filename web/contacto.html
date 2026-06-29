@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><title>Contacto</title></head>
+<body>
+  <h1>Hablá con nosotros</h1>
+  <!-- Hallazgo: formulario sin proteccion anti-bots (CAPTCHA / rate limit) -->
+  <form action="/enviar" method="post">
+    <input name="nombre" placeholder="Nombre" required>
+    <input name="email" type="email" placeholder="Correo" required>
+    <textarea name="mensaje" placeholder="Mensaje"></textarea>
+    <!-- Hallazgo: se recogen datos personales sin casilla de consentimiento explicito -->
+    <button type="submit">Enviar</button>
+  </form>
+</body>
+</html>
