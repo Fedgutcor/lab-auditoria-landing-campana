@@ -1,12 +1,16 @@
 # landing-campana
 
-> ⚠️ **REPOSITORIO DE EJEMPLO — INTENCIONALMENTE VULNERABLE**
-> Este código contiene fallos de seguridad, privacidad y gobernanza de IA **plantados a propósito**
-> con fines educativos (auditoría asistida por IA). **No es código de producción y no debe usarse como tal.**
-> Las credenciales son placeholders documentados de AWS (no son reales).
+> ⚠️ **REPOSITORIO DE EJEMPLO PARA AUDITORÍA — uso docente**
+> Código de ejemplo con áreas de mejora plantadas a propósito para practicar auditoría asistida por IA.
+> No es código de producción.
 
 Landing de marketing de ejemplo, con textos e imágenes generados por IA.
 
+## Diseño (lo que está BIEN hecho a propósito)
+
+- El formulario pide **consentimiento explícito** y enlaza la política de privacidad.
+- El texto no hace afirmaciones falsas ni antropomorfiza la IA.
+
 ## Cómo usar este repo en la clase
 
-Este repositorio es el de **menor riesgo** de los tres: no hay secretos ni decisiones sobre personas. Pero tiene observaciones de **consentimiento de datos** y de **IA washing** (afirmaciones de marketing sobre IA que no se sostienen). Auditalo y notá cómo el veredicto puede ser 'apto con observaciones': se puede publicar, pero con correcciones.
+Es el repo de **menor riesgo**: no hay secretos, ni datos sin consentimiento, ni claims engañosos. Quedan solo **observaciones** de transparencia (etiquetar el contenido generado por IA) e higiene (anti-bot, política genérica). Auditalo: deberías llegar a **APTO CON OBSERVACIONES** — se puede publicar, con correcciones menores.

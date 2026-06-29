@@ -1,5 +1,5 @@
 # Recursos visuales
 
-<!-- Hallazgo: imagenes generadas por IA sin aviso de contenido sintetico -->
-Las imágenes de esta carpeta (hero.png, equipo.png, clientes.png) fueron generadas por IA
-y se presentan como fotografías reales de personas y clientes, sin disclosure.
+<!-- Hallazgo: ilustraciones decorativas generadas por IA sin etiqueta de 'contenido generado por IA'. -->
+Las ilustraciones de esta carpeta (hero.png, fondo.png) son decorativas y fueron generadas por IA.
+No representan personas ni clientes reales, pero conviene etiquetarlas como contenido sintético.
