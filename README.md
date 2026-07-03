@@ -19,4 +19,4 @@ Es el repo de **menor riesgo**: no hay secretos, ni datos sin consentimiento, ni
 
 La carpeta [`copilot-studio/`](copilot-studio/) contiene **copias de los archivos a auditar**, listas para subir a la base de conocimiento (Knowledge) de Copilot Studio.
 
-Sube a Knowledge **todos los archivos de esa carpeta, tal cual** — y nada más. En particular, **no subas este README**: contiene pistas sobre los hallazgos y el veredicto esperado, y sesgaría al auditor (no le des la hoja de respuestas).
+Sube a Knowledge **todos los archivos de esa carpeta, tal cual** — y nada más. ¿Ruta aún más rápida? El archivo [`copilot-studio/evidencia-completa.md`](copilot-studio/evidencia-completa.md) concatena toda la evidencia en un solo documento: sube solo ese archivo, o copia su contenido y pégalo directamente en el chat del agente. En particular, **no subas este README**: contiene pistas sobre los hallazgos y el veredicto esperado, y sesgaría al auditor (no le des la hoja de respuestas).
