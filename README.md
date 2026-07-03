@@ -13,4 +13,10 @@ Landing de marketing de ejemplo, con textos e imágenes generados por IA.
 
 ## Cómo usar este repo en la clase
 
-Es el repo de **menor riesgo**: no hay secretos, ni datos sin consentimiento, ni claims engañosos. Quedan solo **observaciones** de transparencia (etiquetar el contenido generado por IA) e higiene (anti-bot, política genérica). Auditalo: deberías llegar a **APTO CON OBSERVACIONES** — se puede publicar, con correcciones menores.
+Es el repo de **menor riesgo**: no hay secretos, ni datos sin consentimiento, ni claims engañosos. Quedan solo **observaciones** de transparencia (etiquetar el contenido generado por IA) e higiene (anti-bot, política genérica). Audítalo: deberías llegar a **APTO CON OBSERVACIONES** — se puede publicar, con correcciones menores.
+
+## Carpeta `copilot-studio/` — para la práctica en Microsoft Copilot Studio
+
+La carpeta [`copilot-studio/`](copilot-studio/) contiene **copias de los archivos a auditar**, listas para subir a la base de conocimiento (Knowledge) de Copilot Studio.
+
+Sube a Knowledge **todos los archivos de esa carpeta, tal cual** — y nada más. En particular, **no subas este README**: contiene pistas sobre los hallazgos y el veredicto esperado, y sesgaría al auditor (no le des la hoja de respuestas).
